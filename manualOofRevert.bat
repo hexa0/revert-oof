@@ -1,0 +1,1 @@
+for /D %%i in (%localappdata%\Roblox\Versions\*) do copy "%cd%\ouch.ogg" "%%i\content\sounds\ouch.ogg"
